@@ -3,4 +3,4 @@ Repositorio para mostrar a minha evolução no curso FreeCodeCamp(https://www.fr
 ## Assuntos
 ![foto com os assuntos do curso](https://github.com/Liedsonrm/CodeCamp/blob/master/img/assunto.JPG)
 ### Responsive Web Design Certification
-![]()https://github.com/Liedsonrm/CodeCamp/blob/master/img/web_design.JPG
+![imagem com assuntos sobre desenvolviento web, ex: html, css, acessibilidade, etc.](https://github.com/Liedsonrm/CodeCamp/blob/master/img/web_design.JPG)
